@@ -15,4 +15,4 @@ to recognize handwritten digits from the MNIST dataset.
 MNIST handwritten digits dataset.
 
 ## Accuracy
-Example: 97% test accuracy
+ 97% test accuracy
